@@ -1,1 +1,3 @@
 # dice-app
+
+My first git-hub rep. Simple app that simulates the throw of two dices. The mechanics of the dices are as follows: two random numbers are sorted between 1 and 6. The sum of the numbers is add to a list(from 2 to 12) when a number is sorted 10 times, it will be the dice result. The other numbers results remain counting on the list, but the sorted number resets. We thought of this to play the game catan, with dices the followed the game's logic(some numbers are easier to be sorted than others), while at the same time generating a fair distribution, since sometimes some numbers with low probability were sorted literally all the time or never, and we were getting bored of it.
